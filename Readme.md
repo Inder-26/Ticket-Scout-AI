@@ -86,7 +86,7 @@ Replace `YOUR_SECRET_KEY` with your bot’s key.
 ---
 
 
-![TicketScout AI ](./Images/Ticket-image.pngimages/)
+![TicketScout AI ](./Images/Ticket-image.png)
 
 
 
