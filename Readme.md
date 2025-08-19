@@ -56,8 +56,6 @@
 📁 TicketScout-AI/
 ├── index.html               # Web interface with Omni bot
 ├── README.md                # Project documentation
-├── /assets/logo.png         # Project logo
-├── /scripts/                # (Optional) Sheets or webhook scripts
 └── Ticket_data.xlsx # Sample data file
 ```
 
